@@ -1,0 +1,11 @@
+test1.txt
+Answers: size = 10, first = 25,  last = 29, median = 21
+
+test2.txt
+Answers: size = 100, first = 615, last = 587, median = 518
+
+test3.txt
+Answers: size = 1000, first = 10297, last = 10184, median = 8921
+
+QuickSort.txt
+Answers: size = 10000, first = 162085, last = 164123, median = 138382

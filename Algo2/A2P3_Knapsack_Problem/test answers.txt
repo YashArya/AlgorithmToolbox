@@ -1,0 +1,3 @@
+test1.txt: 8
+knapsack1.txt: 2493893
+knapsack_big.txt: 4243395

@@ -1,0 +1,5 @@
+test1: 2, cuts are [(1,7), (4,5)]
+test2: 2, cuts are [(1,7), (4,5)] // test2 is randomly permuted adj list of test1
+test3: 1, cut is [(4,5)]
+test4: 3
+kargerMinCut: 
